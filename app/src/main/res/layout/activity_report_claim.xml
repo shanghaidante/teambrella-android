@@ -2,8 +2,10 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll_view"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:overScrollMode="never">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -213,11 +215,11 @@
             <com.teambrella.android.ui.widget.AkkuratRegularEditText
                 android:id="@+id/description"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:layout_marginTop="8dp"
                 android:background="@drawable/default_edit_text_background"
                 android:gravity="top|left"
-                android:lines="6"
+                android:lines="8"
                 android:paddingBottom="10dp"
                 android:paddingEnd="16dp"
                 android:paddingStart="16dp"
