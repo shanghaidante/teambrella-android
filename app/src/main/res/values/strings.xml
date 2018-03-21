@@ -192,7 +192,8 @@
     <string name="fund_wallet">Fund wallet</string>
     <string name="for_max_coverage">For max coverage (100%)</string>
     <string name="for_uninterrupted_coverage">For uninterrupted coverage</string>
-    <string name="recommending_funding">Recommending Funding </string>
+    <string name="recommended_funding">Recommended Funding</string>
+    <string name="recommended">Recommended</string>
     <string name="copy_address">Copy Address</string>
     <string name="ethereum_address">Ethereum Address</string>
     <string name="qr_code">QR-Code</string>

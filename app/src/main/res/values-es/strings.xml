@@ -181,7 +181,7 @@
     <string name="fund_wallet">Financiar monedero</string>
     <string name="for_max_coverage">Para cobertura máxima(100%)</string>
     <string name="for_uninterrupted_coverage">Para cobertura ininterrumpida</string>
-    <string name="recommending_funding">Financiamiento Recomendado </string>
+    <string name="recommended_funding">Financiamiento Recomendado </string>
     <string name="copy_address">Copiar direción </string>
     <string name="ethereum_address">Dirección de Ethereum</string>
     <string name="qr_code">QR-Code</string>
