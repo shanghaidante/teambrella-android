@@ -23,6 +23,14 @@
 -dontwarn org.slf4j.MarkerFactory
 -dontwarn org.slf4j.MDC
 
+-keep class com.facebook.** {
+   *;
+}
+
+-keep class org.ethereum.** {
+   *;
+}
+
 
 #Retrofit
 # Platform calls Class.forName on types which do not exist on Android to determine platform.
